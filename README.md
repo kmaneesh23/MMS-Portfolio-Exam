@@ -1,2 +1,2 @@
 # MMS
-MMS Projects from FH Kiel MADS Programme
+MMS Final Portfolio Exam from FH Kiel MADS Programme
